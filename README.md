@@ -9,7 +9,7 @@ Admin Panel:-
 3. Dish Manager
 ![image](https://user-images.githubusercontent.com/75439638/197450899-1d2e067c-a751-438c-a005-12f547d8e016.png)
 
-4. Form for adding new Dish
+4. Form for adding new dish
 ![image](https://user-images.githubusercontent.com/75439638/197450988-e2b46ba9-61f3-42e3-be8e-8eb82cbb0942.png)
 
 
@@ -23,5 +23,5 @@ User Panel:-
 3.Adding a Dish
 ![image](https://user-images.githubusercontent.com/75439638/197452307-21ac9980-9cc5-46a9-81e2-9d161a774fb9.png)
 
-4. Cart
+4. Cart   
 ![image](https://user-images.githubusercontent.com/75439638/197452508-5bbf0a16-5010-4f66-927b-d3b1d5f8d5e7.png)
